@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="29px" viewBox="0 0 19 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill-4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M1.25330333,16.113913 C0.45657,14.5750217 -6.33333334e-05,12.7871087 -6.33333334e-05,10.879413 C-6.33333334e-05,5.12354348 4.14890333,0.458326087 9.26623667,0.458326087 C14.38357,0.458326087 18.5325367,5.12354348 18.5325367,10.879413 C18.5325367,12.784587 18.07717,14.5699783 17.2842367,16.1069783 L9.31690333,29 L1.25330333,16.113913 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Fill-4" sketch:type="MSLayerGroup">
+            <mask id="mask-2" sketch:name="Mask" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#250065" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
